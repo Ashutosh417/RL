@@ -4,6 +4,8 @@ This repository contains a deep reinforcement learning agent trained to play Fla
 
 ---
 
+![Flappy_Bird Demo](Flappy_Bird_Record-Gif.gif)
+
 ## Features
 * **Algorithm**: Proximal Policy Optimization (PPO) with clipped objective.
 * **Architecture**: Separate Multilayer Perceptron (MLP) networks for the Actor and the Critic.
